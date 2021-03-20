@@ -90,7 +90,7 @@ int main()
 
     
 
-    int N = 2, M = 4; 
+    int N = 12, M = 30; 
 
   
 
